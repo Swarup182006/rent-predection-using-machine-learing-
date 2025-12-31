@@ -1,0 +1,16 @@
+location,house_type,size,furnishing,rent
+JJ,1BHK,450,Semi,6000
+JJ,1BHK,520,Furnished,7500
+JJ,2BHK,700,Unfurnished,9000
+JJ,2BHK,780,Semi,11000
+JJ,3BHK,1050,Furnished,16000
+BN,1BHK,430,Unfurnished,5000
+BN,1BHK,500,Semi,6500
+BN,2BHK,720,Furnished,12000
+BN,2BHK,800,Semi,10000
+BN,3BHK,1100,Unfurnished,14000
+Old Gunupur,1BHK,480,Semi,5800
+Old Gunupur,1BHK,530,Furnished,7200
+Old Gunupur,2BHK,750,Unfurnished,9000
+Old Gunupur,2BHK,820,Furnished,13000
+Old Gunupur,3BHK,1150,Semi,15000
